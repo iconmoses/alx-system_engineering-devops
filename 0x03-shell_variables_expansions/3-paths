@@ -1,0 +1,2 @@
+#!/bin/bash
+echo s(('echo SPATH /grep -0":/| wc-|'+|"
